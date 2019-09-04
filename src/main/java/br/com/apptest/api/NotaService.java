@@ -29,7 +29,7 @@ public class NotaService {
 	 */
 	@Path("/{id_aluno}")
 	@GET
-    @Produces(MediaType.APPLICATION_JSON + "; charset=UTF-8")
+    @Produces(MediaType.TEXT_PLAIN)
 	public Response listarPorMatricula(@PathParam("id_aluno") Integer idAluno) {
 		
 		log.debug("NotaService Acessed - Aluno:" + idAluno);
