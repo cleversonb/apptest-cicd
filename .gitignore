@@ -3,3 +3,4 @@
 .settings/
 src/main/webapp/WEB-INF/classes/
 /target/
+.vscode
