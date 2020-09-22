@@ -1,2 +1,2 @@
 # apptest-cicd
-Java application for test the CI/CD in OpenShift Cluster
+Basic JavaEE application for test the CI/CD in OpenShift Cluster
